@@ -1,0 +1,141 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/unbaja
+Data file = C:\xampp\htdocs\unbaja/wp-content/uploads/2019/07/demo-content-import-file_2019-07-10__20-57-15.xml
+Widget file = C:\xampp\htdocs\unbaja/wp-content/uploads/2019/07/demo-widgets-import-file_2019-07-10__20-57-15.json
+Customizer file = C:\xampp\htdocs\unbaja/wp-content/uploads/2019/07/demo-customizer-import-file_2019-07-10__20-57-15.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "" (Item do menu)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Contact": Invalid post type wpcf7_contact_form
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Pesquisar - Search - Widget already exists
+Arquivos - No Title - Imported
+Categorias - No Title - Imported
+
+Call to action top widget area : 
+
+WBR : Call To Action Top - No Title - Imported
+
+Homepage service section - sidebar : 
+
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+
+Homepage project section - sidebar : 
+
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+
+sidebar-news : Sidebar does not exist in theme (moving widget to Inactive)
+
+rambo_recent_news_widget - Latest News - Site does not support widget
+
+Footer widget area : 
+
+WBR : Sidebar Latest News - Latest News - Imported
+Nuvem de tags - Tag Cloud - Imported
+Texto - Contact Info - Imported
+
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Pesquisar - Search - Widget already exists
+Arquivos - No Title - Widget already exists
+Categorias - No Title - Widget already exists
+
+Call to action top widget area : 
+
+WBR : Call To Action Top - No Title - Widget already exists
+
+Homepage service section - sidebar : 
+
+WBR : Page Widget - No Title - Widget already exists
+WBR : Page Widget - No Title - Widget already exists
+WBR : Page Widget - No Title - Widget already exists
+WBR : Page Widget - No Title - Widget already exists
+
+Homepage project section - sidebar : 
+
+WBR : Page Widget - No Title - Widget already exists
+WBR : Page Widget - No Title - Widget already exists
+WBR : Page Widget - No Title - Imported
+WBR : Page Widget - No Title - Imported
+
+sidebar-news : Sidebar does not exist in theme (moving widget to Inactive)
+
+rambo_recent_news_widget - Latest News - Site does not support widget
+
+Footer widget area : 
+
+WBR : Sidebar Latest News - Latest News - Imported
+Nuvem de tags - Tag Cloud - Imported
+Texto - Contact Info - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
